@@ -1,2 +1,2 @@
 # Gallery-Flex
-Created a Images gallery by flex
+Created Images gallery by flex
